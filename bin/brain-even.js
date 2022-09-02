@@ -19,6 +19,9 @@ const isEven = (value) => {
   return 'no';
 };
 
+// Asking question from user
+const askQuestion = (value) => `Question: ${value}`;
+
 //  get answer from user
 const getAnswer = () => {
   const answer = readlineSync.question('Your answer: ');
@@ -39,7 +42,7 @@ const game = () => {
   let i = 0;
   while (i < 3) {
     const randomValue = getRandomInt();
-    console.log(`Question: ${randomValue}`);
+    console.log(askQuestion(randomValue));
     const answer = getAnswer();
 
     if (answer !== 'yes' && answer !== 'no') {

@@ -19,9 +19,6 @@ const isEven = (value) => {
   return 'no';
 };
 
-// Asking question from user
-const askQuestion = (value) => `Question: ${value}`;
-
 //  get answer from user
 const getAnswer = () => {
   const answer = readlineSync.question('Your answer: ');
@@ -38,29 +35,29 @@ const name = getName();
 console.log('"yes" if the number is even, otherwise answer "no".');
 
 // implementing game logic
-const game = () => {
-  let i = 0;
-  while (i < 3) {
-    const randomValue = getRandomInt();
-    console.log(askQuestion(randomValue));
-    const answer = getAnswer();
+let i = 0;
 
-    if (answer !== 'yes' && answer !== 'no') {
-      console.log('Error type of answer');
-      return;
-    }
+while (i < 3) {
+  const randomValue = getRandomInt();
+  console.log(`Question: ${randomValue}`);
+  const answer = getAnswer();
 
-    const result = checkAnswer(randomValue, answer);
-    if (result) {
-      console.log('Correct!');
-      i += 1;
-    } else {
-      console.log(`'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, ${name}!`);
-      return;
-    }
+  if (answer !== 'yes' && answer !== 'no') {
+    console.log('Error type of answer');
+    break;
   }
 
-  console.log(`Congratulations, ${name}!`);
-};
+  const result = checkAnswer(randomValue, answer);
 
-game();
+  if (result) {
+    console.log('Correct!');
+    i += 1;
+    if (i === 3) {
+      console.log(`Congratulations, ${name}!`);
+    }
+  } else {
+    console.log("'yes' is wrong answer ;(. Correct answer was 'no'.");
+    console.log(`Let's try again, ${name}!`);
+    break;
+  }
+}

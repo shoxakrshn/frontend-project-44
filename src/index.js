@@ -21,3 +21,16 @@ export const failed = (name, userAnswer, correctAnswer) => {
   console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'`);
   console.log(`Let's try again, ${name}!`);
 };
+
+export const jcdCalculation = (a, b) => {
+  let firstValue = a;
+  let secondValue = b;
+  while (firstValue !== 0 && secondValue !== 0) {
+    if (firstValue > secondValue) {
+      firstValue %= secondValue;
+    } else {
+      secondValue %= firstValue;
+    }
+  }
+  return firstValue + secondValue;
+};

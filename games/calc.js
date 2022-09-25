@@ -4,6 +4,8 @@ import {
   getAnswer,
   getName,
   checkAnswer,
+  congratulate,
+  failed,
 } from '../src/index.js';
 
 export default () => {
@@ -37,11 +39,10 @@ export default () => {
     if (finalResult) {
       console.log('Correct!');
       if (i === 2) {
-        console.log(`Congratulations, ${name}!`);
+        congratulate(name);
       }
     } else {
-      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${result}'`);
-      console.log(`Let's try again, ${name}!`);
+      failed(name, userAnswer, result);
       break;
     }
   }

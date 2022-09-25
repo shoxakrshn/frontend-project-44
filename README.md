@@ -32,4 +32,6 @@ $ brain-prime
 ```
 
 ## Example
-<a href="https://asciinema.org/a/8II0M4UQhImz9FdDQXdQLmnBV">asciicinema brain-even</a>
+
+### Brain-even game:
+[![asciicast](https://asciinema.org/a/8II0M4UQhImz9FdDQXdQLmnBV.svg)](https://asciinema.org/a/8II0M4UQhImz9FdDQXdQLmnBV)

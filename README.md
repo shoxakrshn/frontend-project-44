@@ -40,3 +40,7 @@ $ brain-prime
 ### brain-even game:
 [![asciicast](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty.svg)](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty)
 [![asciicast](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf.svg)](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf)
+
+### brain-gcd game:
+[![asciicast](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn.svg)](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn)
+[![asciicast](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg.svg)](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg)

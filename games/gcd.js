@@ -15,8 +15,8 @@ export default () => {
   console.log('Find the greatest common divisor of given numbers');
 
   for (let i = 0; i < 3; i += 1) {
-    const firstNumber = randomNumber(1, 31);
-    const secondNumber = randomNumber(1, 31);
+    const firstNumber = randomNumber(2, 31);
+    const secondNumber = randomNumber(2, 31);
     console.log(`Question: ${firstNumber} ${secondNumber}`);
     const correctAnswer = jcdCalculation(firstNumber, secondNumber);
     const answer = Number(getAnswer());

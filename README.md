@@ -33,5 +33,10 @@ $ brain-prime
 
 ## Example
 
-### Brain-even game:
-[![asciicast](https://asciinema.org/a/8II0M4UQhImz9FdDQXdQLmnBV.svg)](https://asciinema.org/a/8II0M4UQhImz9FdDQXdQLmnBV)
+### brain-calc game:
+[![asciicast](https://asciinema.org/a/biRNw5hnHj9L3jVcV8u4zWzvw.svg)](https://asciinema.org/a/biRNw5hnHj9L3jVcV8u4zWzvw)
+[![asciicast](https://asciinema.org/a/fITJtbDnZSvg8jXMqkdraCrvA.svg)](https://asciinema.org/a/fITJtbDnZSvg8jXMqkdraCrvA)
+
+### brain-even game:
+[![asciicast](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty.svg)](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty)
+[![asciicast](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf.svg)](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf)

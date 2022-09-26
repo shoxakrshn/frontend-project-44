@@ -44,3 +44,7 @@ $ brain-prime
 ### brain-gcd game:
 [![asciicast](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn.svg)](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn)
 [![asciicast](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg.svg)](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg)
+
+### brain-progression game:
+[![asciicast](https://asciinema.org/a/9b9oDnDrERrfnjyqIQ5n7Jn6p.svg)](https://asciinema.org/a/9b9oDnDrERrfnjyqIQ5n7Jn6p)
+[![asciicast](https://asciinema.org/a/I037OIuZUT5jJqN3uwtnYwJyZ.svg)](https://asciinema.org/a/I037OIuZUT5jJqN3uwtnYwJyZ)

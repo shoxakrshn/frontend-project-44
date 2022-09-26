@@ -37,14 +37,22 @@ $ brain-prime
 [![asciicast](https://asciinema.org/a/biRNw5hnHj9L3jVcV8u4zWzvw.svg)](https://asciinema.org/a/biRNw5hnHj9L3jVcV8u4zWzvw)
 [![asciicast](https://asciinema.org/a/fITJtbDnZSvg8jXMqkdraCrvA.svg)](https://asciinema.org/a/fITJtbDnZSvg8jXMqkdraCrvA)
 
+
 ### brain-even game:
 [![asciicast](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty.svg)](https://asciinema.org/a/BLh8Uuto1GvegjaBBWxGNW1ty)
 [![asciicast](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf.svg)](https://asciinema.org/a/EDJ5UQbAr7xrtHlOH3zgKXpVf)
+
 
 ### brain-gcd game:
 [![asciicast](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn.svg)](https://asciinema.org/a/I1JGTMiwY6NaNyMsEzVMxDdFn)
 [![asciicast](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg.svg)](https://asciinema.org/a/RAMYmT2Xvgd8UTHOPkNPf6dpg)
 
+
 ### brain-progression game:
 [![asciicast](https://asciinema.org/a/9b9oDnDrERrfnjyqIQ5n7Jn6p.svg)](https://asciinema.org/a/9b9oDnDrERrfnjyqIQ5n7Jn6p)
 [![asciicast](https://asciinema.org/a/I037OIuZUT5jJqN3uwtnYwJyZ.svg)](https://asciinema.org/a/I037OIuZUT5jJqN3uwtnYwJyZ)
+
+
+### brain-prime game:
+[![asciicast](https://asciinema.org/a/mgx1QKpdYKRyu9KSUreDJRYWa.svg)](https://asciinema.org/a/mgx1QKpdYKRyu9KSUreDJRYWa)
+[![asciicast](https://asciinema.org/a/wiLwnM4jSX4zDhpzNLZIDqFMf.svg)](https://asciinema.org/a/wiLwnM4jSX4zDhpzNLZIDqFMf)

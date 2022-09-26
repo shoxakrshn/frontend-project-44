@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-//import runGame from '../games/progression.js';
+import runGame from '../games/prime.js';
 
-//runGame();
-
-console.log('hello brain-prime');
+runGame();
